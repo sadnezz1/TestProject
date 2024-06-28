@@ -1,2 +1,2 @@
-# TestProject
-Test project to check how github work
+# This is a test project
+Don't mind me, i was just a test project
